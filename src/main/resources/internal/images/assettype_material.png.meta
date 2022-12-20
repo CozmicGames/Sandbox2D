@@ -1,0 +1,10 @@
+{
+    "name": {
+        "type": "STRING",
+        "value": "internal/images/assettype_material.png"
+    },
+    "filter": {
+        "type": "STRING",
+        "value": "LINEAR"
+    }
+}

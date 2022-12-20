@@ -1,0 +1,10 @@
+{
+    "name": {
+        "type": "STRING",
+        "value": "internal/images/search.png"
+    },
+    "filter": {
+        "type": "STRING",
+        "value": "LINEAR"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": {
+        "type": "STRING",
+        "value": "internal/images/paste_tool.png"
+    },
+    "filter": {
+        "type": "STRING",
+        "value": "LINEAR"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": {
+        "type": "STRING",
+        "value": "internal/images/assettype_font.png"
+    },
+    "filter": {
+        "type": "STRING",
+        "value": "LINEAR"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": {
+        "type": "STRING",
+        "value": "internal/images/grid_background_8x8.png"
+    },
+    "filter": {
+        "type": "STRING",
+        "value": "NEAREST"
+    }
+}
